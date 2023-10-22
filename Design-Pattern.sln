@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{C1C9CEAA-9E97-465F-99FC-42AF2E9B956F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDelegate", "ObserverDelegate\ObserverDelegate.csproj", "{1511171A-754F-4997-87D8-08DCD2E54BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C1C9CEAA-9E97-465F-99FC-42AF2E9B956F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C9CEAA-9E97-465F-99FC-42AF2E9B956F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C9CEAA-9E97-465F-99FC-42AF2E9B956F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1511171A-754F-4997-87D8-08DCD2E54BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1511171A-754F-4997-87D8-08DCD2E54BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1511171A-754F-4997-87D8-08DCD2E54BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1511171A-754F-4997-87D8-08DCD2E54BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
